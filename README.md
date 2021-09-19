@@ -3,18 +3,18 @@
 ## Install module
 
 ```
-npm install --save random-util
+npm install --save randomaizer-util
 ```
 
 or
 
 ```
-yarn install --save random-util
+yarn install --save randomaizer-util
 ```
 
 ### Import module
 ```
-const random = require('random-util');
+const random = require('randomaizer-util');
 ```
 
 ### Generate Integer with random length
